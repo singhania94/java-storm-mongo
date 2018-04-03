@@ -1,0 +1,5 @@
+com\citi\AggregateBolt.class
+com\citi\App.class
+com\citi\AggregateKafkaSpout$1.class
+com\citi\AggregateKafkaSpout.class
+com\citi\AggregateObject.class
