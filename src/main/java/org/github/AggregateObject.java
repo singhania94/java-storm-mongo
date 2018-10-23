@@ -1,4 +1,4 @@
-package com.citi;
+package org.github;
 
 public class AggregateObject {
 
