@@ -1,4 +1,4 @@
-package com.citi;
+package org.github;
 
 import java.util.Map;
 
@@ -12,10 +12,6 @@ import org.apache.storm.kafka.spout.KafkaSpoutConfig;
 import org.apache.storm.kafka.spout.SimpleRecordTranslator;
 import org.apache.storm.topology.TopologyBuilder;
 import org.apache.storm.tuple.Fields;
-
-import com.citi.reghub.core.BaseTopology;
-import com.citi.reghub.core.PropertiesLoader;
-import com.citi.reghub.core.constants.GlobalProperties;
 
 public class App extends BaseTopology {
 
